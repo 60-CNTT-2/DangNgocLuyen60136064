@@ -1,6 +1,25 @@
 h1 {
-text-align: center;
+	text-align:center;
+	color:#006600;
+}
+h2 {
+	color:#0000FF;
+}
+#h2{
+	text-align:center;
+	color:#FF3399;
+	background:#FECFFD;
+}
+div{
+	text-align:center;
+	background:#FFFFCC;
+}
+#p1{
+	color:#0000FF;
 }
 #p2{
-text-align: center;
+	color:#FF3399;
+}
+#p3{
+	color:#006600;
 }
