@@ -1,0 +1,8 @@
+#math{
+	background-image:url(../multi/notebook.jpg);
+	background-size: 500px, 500px;
+    width: 35%;
+    height: 65vh;
+    float: left;
+    box-sizing: border-box;
+}
