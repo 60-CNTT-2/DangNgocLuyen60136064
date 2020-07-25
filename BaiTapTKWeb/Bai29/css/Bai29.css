@@ -1,0 +1,21 @@
+section{
+    width: 500px;
+	position: absolute;
+	top:30%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+    border: solid 2px black;
+    padding: 10px;
+    line-height: 180%;
+}
+label{
+    display: inline-block;
+    font-weight: bold;
+    width: 150px;
+}
+#note{
+    margin-left: 5px;
+}
+input{
+    width: 30%;
+}
